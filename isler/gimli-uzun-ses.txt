@@ -1,0 +1,4 @@
+trA.wav https://resource2.heygen.ai/text_to_speech/f47edbad4b8e463fb86f8e8d43ea3193/7f6838b1b0f141deba891800621a4fe8/id=5d8233061f514d2fbccb197aa266ded7.wav
+trB.wav https://resource2.heygen.ai/text_to_speech/f47edbad4b8e463fb86f8e8d43ea3193/7f6838b1b0f141deba891800621a4fe8/id=93684e3114a24c16a4768dcbcd0a290a.wav
+enA.wav https://resource2.heygen.ai/text_to_speech/f47edbad4b8e463fb86f8e8d43ea3193/5a433af6414243a78f8e79ec23f670f8/id=9de56f62bfdc4992b601b71a7becbdea.wav
+enB.wav https://resource2.heygen.ai/text_to_speech/f47edbad4b8e463fb86f8e8d43ea3193/5a433af6414243a78f8e79ec23f670f8/id=9e888a48993b4eb7ba883874f1480375.wav
