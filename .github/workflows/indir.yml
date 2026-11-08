@@ -1,0 +1,42 @@
+name: HeyGen dosyalarini indir
+on:
+  push:
+    branches: [main]
+    paths: ['isler/**.txt']
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: indir
+  cancel-in-progress: false
+jobs:
+  indir:
+    if: "!contains(github.event.head_commit.message, '[bot]')"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Islerdeki baglantilari indir
+        run: |
+          set -u
+          shopt -s nullglob
+          for f in isler/*.txt; do
+            is=$(basename "$f" .txt)
+            mkdir -p "indirilen/$is"
+            # satir bicimi: dosya_adi.mp4 <bosluk> https://...
+            while read -r ad url; do
+              [ -z "${ad:-}" ] && continue
+              case "$ad" in \#*) continue;; esac
+              hedef="indirilen/$is/$ad"
+              [ -s "$hedef" ] && continue
+              echo "indiriliyor: $hedef"
+              curl -fsSL --retry 3 --max-time 600 -o "$hedef" "$url" || { echo "HATA: $ad"; rm -f "$hedef"; echo "$ad $url" >> "indirilen/$is/HATALAR.txt"; }
+            done < "$f"
+            git mv -f "$f" "isler/tamam_$is.txt" 2>/dev/null || mv "$f" "isler/tamam_$is.txt"
+          done
+      - name: Kaydet
+        run: |
+          git config user.name "indirme-botu"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "[bot] HeyGen dosyalari indirildi"
+          git push
