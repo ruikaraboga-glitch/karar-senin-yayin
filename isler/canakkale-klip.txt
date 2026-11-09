@@ -1,0 +1,4 @@
+v1_landing.mp4 https://resource2.heygen.ai/videos/f47edbad4b8e463fb86f8e8d43ea3193/f47edbad4b8e463fb86f8e8d43ea3193/01a1c081-7e7a-7da4-930e-e46a4f78f578.mp4
+v2_run.mp4 https://resource2.heygen.ai/videos/f47edbad4b8e463fb86f8e8d43ea3193/f47edbad4b8e463fb86f8e8d43ea3193/01a1c081-8250-7e70-a4ba-becb13f7b03d.mp4
+v3_bayonet.mp4 https://resource2.heygen.ai/videos/f47edbad4b8e463fb86f8e8d43ea3193/f47edbad4b8e463fb86f8e8d43ea3193/01a1c081-8a02-7047-b8d3-5a1652e00771.mp4
+v4_ridge.mp4 https://resource2.heygen.ai/videos/f47edbad4b8e463fb86f8e8d43ea3193/f47edbad4b8e463fb86f8e8d43ea3193/01a1c081-8dee-703e-b4a0-b844507e76a0.mp4
