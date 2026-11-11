@@ -1,0 +1,44 @@
+name: Ses yaziya dok
+on:
+  push:
+    branches: [main]
+    paths: ['yazi/*.m4a']
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: yazi
+  cancel-in-progress: false
+jobs:
+  yazi:
+    if: "!contains(github.event.head_commit.message, '[bot]')"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Kur
+        run: pip install -q faster-whisper
+      - name: Dok
+        run: |
+          python - <<'P'
+          import glob, json, os
+          from faster_whisper import WhisperModel
+          m = WhisperModel("medium", device="cpu", compute_type="int8")
+          for f in sorted(glob.glob("yazi/*.m4a")):
+              out = f[:-4] + ".json"
+              if os.path.exists(out): continue
+              segs, info = m.transcribe(f, language="tr", word_timestamps=True, vad_filter=False)
+              res = [{"start": s.start, "end": s.end, "text": s.text, "words": [[w.start, w.end, w.word] for w in (s.words or [])]} for s in segs]
+              json.dump(res, open(out, "w"), ensure_ascii=False, indent=1)
+              print(f, len(res))
+          P
+      - name: Kaydet
+        run: |
+          git config user.name "yazi-botu"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A yazi
+          git commit -m "yazi [bot]" || exit 0
+          git pull --rebase -q
+          git push
