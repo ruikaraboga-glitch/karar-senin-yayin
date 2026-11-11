@@ -1,0 +1,12 @@
+k1_taht.mp4 https://resource2.heygen.ai/videos/f47edbad4b8e463fb86f8e8d43ea3193/f47edbad4b8e463fb86f8e8d43ea3193/01a1ca22-d31e-7c78-8e87-0ccaf90cb4da.mp4
+k2_yangin.mp4 https://resource2.heygen.ai/videos/f47edbad4b8e463fb86f8e8d43ea3193/f47edbad4b8e463fb86f8e8d43ea3193/01a1ca22-d682-7b51-8542-40556320c368.mp4
+k3_yuruyus.mp4 https://resource2.heygen.ai/videos/f47edbad4b8e463fb86f8e8d43ea3193/f47edbad4b8e463fb86f8e8d43ea3193/01a1ca22-dacc-7884-9756-43a99eadace6.mp4
+k4_savas.mp4 https://resource2.heygen.ai/videos/f47edbad4b8e463fb86f8e8d43ea3193/f47edbad4b8e463fb86f8e8d43ea3193/01a1ca22-df50-786b-800f-fe9700284445.mp4
+k5_yeniceri.mp4 https://resource2.heygen.ai/videos/f47edbad4b8e463fb86f8e8d43ea3193/f47edbad4b8e463fb86f8e8d43ea3193/01a1ca22-e267-777e-a6a2-90642e610445.mp4
+k6_tahta.mp4 https://resource2.heygen.ai/videos/f47edbad4b8e463fb86f8e8d43ea3193/f47edbad4b8e463fb86f8e8d43ea3193/01a1ca22-e66c-7755-9178-513b622b4342.mp4
+k7_yuzuk.mp4 https://resource2.heygen.ai/videos/f47edbad4b8e463fb86f8e8d43ea3193/f47edbad4b8e463fb86f8e8d43ea3193/01a1ca23-01db-7d9f-b95d-2e0db470da4b.mp4
+k8_yol.mp4 https://resource2.heygen.ai/videos/f47edbad4b8e463fb86f8e8d43ea3193/f47edbad4b8e463fb86f8e8d43ea3193/01a1ca23-095b-70ff-ada9-5836abe7fbb4.mp4
+tr.wav https://resource2.heygen.ai/text_to_speech/f47edbad4b8e463fb86f8e8d43ea3193/31001ed1e3e54c79a88458cb03ca123a/id=b356e35e603741e0a33b7fe45b2f5c78.wav
+en.wav https://resource2.heygen.ai/text_to_speech/f47edbad4b8e463fb86f8e8d43ea3193/31001ed1e3e54c79a88458cb03ca123a/id=3b93305019ee47148f83ecba0c6c146d.wav
+en_c.wav https://resource2.heygen.ai/text_to_speech/f47edbad4b8e463fb86f8e8d43ea3193/31001ed1e3e54c79a88458cb03ca123a/id=41d92a9ef21a49558635d87733baa341.wav
+muzik.wav https://heygen-product.s3-accelerate.amazonaws.com/astral_generated_music/2f0af1ebccb74ab6ab495fd2a2f8ccaf.wav?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3FLD4S3AS7WYJKBK%2F20261111%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20261111T102416Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=bee15f79c72b933ac8386f796a4a4f413ba119c7f4397cf252228aa563ea3d59
