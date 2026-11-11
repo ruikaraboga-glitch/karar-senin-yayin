@@ -1,0 +1,349 @@
+[
+ {
+  "start": 0.0,
+  "end": 7.1,
+  "text": " İki Murad'ın ordusu, Karadeniz kıyısındaki Varna yakınlarında Macar ve Leharıklı Haçlı kuvvetleriyle karşılaştı.",
+  "words": [
+   [
+    0.0,
+    0.56,
+    " İki"
+   ],
+   [
+    0.56,
+    0.8,
+    " Murad"
+   ],
+   [
+    0.8,
+    0.98,
+    "'ın"
+   ],
+   [
+    0.98,
+    1.52,
+    " ordusu,"
+   ],
+   [
+    1.74,
+    2.08,
+    " Karadeniz"
+   ],
+   [
+    2.08,
+    2.62,
+    " kıyısındaki"
+   ],
+   [
+    2.62,
+    2.94,
+    " Varna"
+   ],
+   [
+    2.94,
+    3.56,
+    " yakınlarında"
+   ],
+   [
+    3.56,
+    4.0,
+    " Macar"
+   ],
+   [
+    4.0,
+    4.2,
+    " ve"
+   ],
+   [
+    4.2,
+    4.86,
+    " Leharıklı"
+   ],
+   [
+    4.86,
+    5.14,
+    " Haçlı"
+   ],
+   [
+    5.14,
+    5.8,
+    " kuvvetleriyle"
+   ],
+   [
+    5.8,
+    7.1,
+    " karşılaştı."
+   ]
+  ]
+ },
+ {
+  "start": 7.8,
+  "end": 12.92,
+  "text": " Hücum başarısız olursa arabalardan ve toplardan kurulan savunma hattına dönmek planlanmıştı.",
+  "words": [
+   [
+    7.8,
+    8.0,
+    " Hücum"
+   ],
+   [
+    8.0,
+    8.58,
+    " başarısız"
+   ],
+   [
+    8.58,
+    8.96,
+    " olursa"
+   ],
+   [
+    8.96,
+    9.66,
+    " arabalardan"
+   ],
+   [
+    9.66,
+    9.84,
+    " ve"
+   ],
+   [
+    9.84,
+    10.38,
+    " toplardan"
+   ],
+   [
+    10.38,
+    10.74,
+    " kurulan"
+   ],
+   [
+    10.74,
+    11.22,
+    " savunma"
+   ],
+   [
+    11.22,
+    11.54,
+    " hattına"
+   ],
+   [
+    11.54,
+    11.92,
+    " dönmek"
+   ],
+   [
+    11.92,
+    12.92,
+    " planlanmıştı."
+   ]
+  ]
+ },
+ {
+  "start": 14.18,
+  "end": 19.44,
+  "text": " Hral Vladeslav, Osmanlı merkezine ani bir süvari hücumu yaptı, fakat birliklerinden koptu.",
+  "words": [
+   [
+    14.18,
+    14.28,
+    " Hral"
+   ],
+   [
+    14.28,
+    14.9,
+    " Vladeslav,"
+   ],
+   [
+    15.18,
+    15.54,
+    " Osmanlı"
+   ],
+   [
+    15.54,
+    16.06,
+    " merkezine"
+   ],
+   [
+    16.06,
+    16.34,
+    " ani"
+   ],
+   [
+    16.34,
+    16.54,
+    " bir"
+   ],
+   [
+    16.54,
+    16.82,
+    " süvari"
+   ],
+   [
+    16.82,
+    17.18,
+    " hücumu"
+   ],
+   [
+    17.18,
+    17.74,
+    " yaptı,"
+   ],
+   [
+    17.84,
+    18.06,
+    " fakat"
+   ],
+   [
+    18.06,
+    18.74,
+    " birliklerinden"
+   ],
+   [
+    18.74,
+    19.44,
+    " koptu."
+   ]
+  ]
+ },
+ {
+  "start": 21.5,
+  "end": 27.3,
+  "text": " Hral'ın öldürülmesi, Haçlı ordusunda çözülmeyi hızlandırdı ve savaş Osmanlı zaferiyle sonuçlandı.",
+  "words": [
+   [
+    21.5,
+    21.6,
+    " Hral"
+   ],
+   [
+    21.6,
+    21.74,
+    "'ın"
+   ],
+   [
+    21.74,
+    22.36,
+    " öldürülmesi,"
+   ],
+   [
+    22.52,
+    22.78,
+    " Haçlı"
+   ],
+   [
+    22.78,
+    23.32,
+    " ordusunda"
+   ],
+   [
+    23.32,
+    23.84,
+    " çözülmeyi"
+   ],
+   [
+    23.84,
+    24.62,
+    " hızlandırdı"
+   ],
+   [
+    24.62,
+    24.92,
+    " ve"
+   ],
+   [
+    24.92,
+    25.24,
+    " savaş"
+   ],
+   [
+    25.24,
+    25.66,
+    " Osmanlı"
+   ],
+   [
+    25.66,
+    26.16,
+    " zaferiyle"
+   ],
+   [
+    26.16,
+    27.3,
+    " sonuçlandı."
+   ]
+  ]
+ },
+ {
+  "start": 28.14,
+  "end": 31.16,
+  "text": " Bir komutanın kararı bütün cepheyi değiştirebilir.",
+  "words": [
+   [
+    28.14,
+    28.72,
+    " Bir"
+   ],
+   [
+    28.72,
+    29.12,
+    " komutanın"
+   ],
+   [
+    29.12,
+    29.6,
+    " kararı"
+   ],
+   [
+    29.6,
+    29.9,
+    " bütün"
+   ],
+   [
+    29.9,
+    30.3,
+    " cepheyi"
+   ],
+   [
+    30.3,
+    31.16,
+    " değiştirebilir."
+   ]
+  ]
+ },
+ {
+  "start": 32.08,
+  "end": 34.52,
+  "text": " Bu hikayenin devamını istiyorsanız abone olun.",
+  "words": [
+   [
+    32.08,
+    32.18,
+    " Bu"
+   ],
+   [
+    32.18,
+    32.72,
+    " hikayenin"
+   ],
+   [
+    32.72,
+    33.3,
+    " devamını"
+   ],
+   [
+    33.3,
+    34.04,
+    " istiyorsanız"
+   ],
+   [
+    34.04,
+    34.36,
+    " abone"
+   ],
+   [
+    34.36,
+    34.52,
+    " olun."
+   ]
+  ]
+ }
+]

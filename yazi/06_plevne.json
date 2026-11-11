@@ -1,0 +1,381 @@
+[
+ {
+  "start": 0.0,
+  "end": 5.08,
+  "text": " Osman Paşa Pilevne'ye ulaştığında hazır bir kale bulmadı, savunma mevzileri hızla kazıldı.",
+  "words": [
+   [
+    0.0,
+    0.62,
+    " Osman"
+   ],
+   [
+    0.62,
+    0.9,
+    " Paşa"
+   ],
+   [
+    0.9,
+    1.24,
+    " Pilevne"
+   ],
+   [
+    1.24,
+    1.38,
+    "'ye"
+   ],
+   [
+    1.38,
+    2.0,
+    " ulaştığında"
+   ],
+   [
+    2.0,
+    2.28,
+    " hazır"
+   ],
+   [
+    2.28,
+    2.54,
+    " bir"
+   ],
+   [
+    2.54,
+    2.56,
+    " kale"
+   ],
+   [
+    2.56,
+    3.12,
+    " bulmadı,"
+   ],
+   [
+    3.36,
+    3.72,
+    " savunma"
+   ],
+   [
+    3.72,
+    4.12,
+    " mevzileri"
+   ],
+   [
+    4.12,
+    4.44,
+    " hızla"
+   ],
+   [
+    4.44,
+    5.08,
+    " kazıldı."
+   ]
+  ]
+ },
+ {
+  "start": 6.46,
+  "end": 10.36,
+  "text": " Tabyalar, hendekler ve ateş hatları birbirini destekleyecek biçimde kuruldu.",
+  "words": [
+   [
+    6.46,
+    6.86,
+    " Tabyalar,"
+   ],
+   [
+    7.02,
+    7.5,
+    " hendekler"
+   ],
+   [
+    7.5,
+    7.68,
+    " ve"
+   ],
+   [
+    7.68,
+    8.02,
+    " ateş"
+   ],
+   [
+    8.02,
+    8.32,
+    " hatları"
+   ],
+   [
+    8.32,
+    8.76,
+    " birbirini"
+   ],
+   [
+    8.76,
+    9.42,
+    " destekleyecek"
+   ],
+   [
+    9.42,
+    9.82,
+    " biçimde"
+   ],
+   [
+    9.82,
+    10.36,
+    " kuruldu."
+   ]
+  ]
+ },
+ {
+  "start": 10.58,
+  "end": 13.72,
+  "text": " Açık arazide ilerleyen birlikler ağır baskı altında kaldı.",
+  "words": [
+   [
+    10.58,
+    10.82,
+    " Açık"
+   ],
+   [
+    10.82,
+    11.24,
+    " arazide"
+   ],
+   [
+    11.24,
+    11.72,
+    " ilerleyen"
+   ],
+   [
+    11.72,
+    12.14,
+    " birlikler"
+   ],
+   [
+    12.14,
+    12.4,
+    " ağır"
+   ],
+   [
+    12.4,
+    12.74,
+    " baskı"
+   ],
+   [
+    12.74,
+    13.14,
+    " altında"
+   ],
+   [
+    13.14,
+    13.72,
+    " kaldı."
+   ]
+  ]
+ },
+ {
+  "start": 15.26,
+  "end": 20.04,
+  "text": " Rus ve Rumen kuvvetlerinin art arda yaptığı büyük saldırılar, Pilevne savunmasını aşamadı.",
+  "words": [
+   [
+    15.26,
+    15.38,
+    " Rus"
+   ],
+   [
+    15.38,
+    15.56,
+    " ve"
+   ],
+   [
+    15.56,
+    15.86,
+    " Rumen"
+   ],
+   [
+    15.86,
+    16.54,
+    " kuvvetlerinin"
+   ],
+   [
+    16.54,
+    16.82,
+    " art"
+   ],
+   [
+    16.82,
+    17.08,
+    " arda"
+   ],
+   [
+    17.08,
+    17.44,
+    " yaptığı"
+   ],
+   [
+    17.44,
+    17.66,
+    " büyük"
+   ],
+   [
+    17.66,
+    18.4,
+    " saldırılar,"
+   ],
+   [
+    18.6,
+    18.82,
+    " Pilevne"
+   ],
+   [
+    18.82,
+    19.36,
+    " savunmasını"
+   ],
+   [
+    19.36,
+    20.04,
+    " aşamadı."
+   ]
+  ]
+ },
+ {
+  "start": 21.48,
+  "end": 26.94,
+  "text": " Doğrudan hücumlar sonuç vermeyince Pilevne tamamen kuşatıldı, ikmal kesilince çıkış harekatı denendi.",
+  "words": [
+   [
+    21.48,
+    21.84,
+    " Doğrudan"
+   ],
+   [
+    21.84,
+    22.36,
+    " hücumlar"
+   ],
+   [
+    22.36,
+    22.72,
+    " sonuç"
+   ],
+   [
+    22.72,
+    23.2,
+    " vermeyince"
+   ],
+   [
+    23.2,
+    23.58,
+    " Pilevne"
+   ],
+   [
+    23.58,
+    24.04,
+    " tamamen"
+   ],
+   [
+    24.04,
+    24.64,
+    " kuşatıldı,"
+   ],
+   [
+    24.92,
+    25.2,
+    " ikmal"
+   ],
+   [
+    25.2,
+    25.64,
+    " kesilince"
+   ],
+   [
+    25.64,
+    26.02,
+    " çıkış"
+   ],
+   [
+    26.02,
+    26.5,
+    " harekatı"
+   ],
+   [
+    26.5,
+    26.94,
+    " denendi."
+   ]
+  ]
+ },
+ {
+  "start": 28.02,
+  "end": 32.44,
+  "text": " Pilevne yalnız kahramanlık değil, mühendislik ve ikmal hikayesidir.",
+  "words": [
+   [
+    28.02,
+    28.78,
+    " Pilevne"
+   ],
+   [
+    28.78,
+    29.16,
+    " yalnız"
+   ],
+   [
+    29.16,
+    29.82,
+    " kahramanlık"
+   ],
+   [
+    29.82,
+    30.1,
+    " değil,"
+   ],
+   [
+    30.4,
+    30.84,
+    " mühendislik"
+   ],
+   [
+    30.84,
+    30.98,
+    " ve"
+   ],
+   [
+    30.98,
+    31.32,
+    " ikmal"
+   ],
+   [
+    31.32,
+    32.44,
+    " hikayesidir."
+   ]
+  ]
+ },
+ {
+  "start": 33.4,
+  "end": 34.54,
+  "text": " Devamı için abone olun.",
+  "words": [
+   [
+    33.4,
+    33.66,
+    " Devamı"
+   ],
+   [
+    33.66,
+    33.96,
+    " için"
+   ],
+   [
+    33.96,
+    34.34,
+    " abone"
+   ],
+   [
+    34.34,
+    34.54,
+    " olun."
+   ]
+  ]
+ }
+]

@@ -1,0 +1,354 @@
+[
+ {
+  "start": 0.0,
+  "end": 6.5200000000000005,
+  "text": " Bağdat'a ilerleyen İngiliz-İngiliz kuvvetleri Kütülamire'de durduruldu ve yaklaşık 5 ay boyunca kuşatma altında kaldı.",
+  "words": [
+   [
+    0.0,
+    0.64,
+    " Bağdat"
+   ],
+   [
+    0.64,
+    0.76,
+    "'a"
+   ],
+   [
+    0.76,
+    1.24,
+    " ilerleyen"
+   ],
+   [
+    1.24,
+    1.58,
+    " İngiliz"
+   ],
+   [
+    1.58,
+    1.72,
+    "-İngiliz"
+   ],
+   [
+    1.72,
+    2.24,
+    " kuvvetleri"
+   ],
+   [
+    2.24,
+    2.86,
+    " Kütülamire'de"
+   ],
+   [
+    2.86,
+    3.62,
+    " durduruldu"
+   ],
+   [
+    3.62,
+    3.88,
+    " ve"
+   ],
+   [
+    3.88,
+    4.34,
+    " yaklaşık"
+   ],
+   [
+    4.34,
+    4.56,
+    " 5"
+   ],
+   [
+    4.56,
+    4.78,
+    " ay"
+   ],
+   [
+    4.78,
+    5.1,
+    " boyunca"
+   ],
+   [
+    5.1,
+    5.56,
+    " kuşatma"
+   ],
+   [
+    5.56,
+    5.92,
+    " altında"
+   ],
+   [
+    5.92,
+    6.5200000000000005,
+    " kaldı."
+   ]
+  ]
+ },
+ {
+  "start": 8.1,
+  "end": 13.94,
+  "text": " Basra yönünden yapılan Artar'da kurtarma saldırıları Osmanlı savunma hatlarını aşmayı başaramadı.",
+  "words": [
+   [
+    8.1,
+    8.36,
+    " Basra"
+   ],
+   [
+    8.36,
+    8.82,
+    " yönünden"
+   ],
+   [
+    8.82,
+    9.2,
+    " yapılan"
+   ],
+   [
+    9.2,
+    9.74,
+    " Artar'da"
+   ],
+   [
+    9.74,
+    10.18,
+    " kurtarma"
+   ],
+   [
+    10.18,
+    10.96,
+    " saldırıları"
+   ],
+   [
+    10.96,
+    11.52,
+    " Osmanlı"
+   ],
+   [
+    11.52,
+    11.9,
+    " savunma"
+   ],
+   [
+    11.9,
+    12.3,
+    " hatlarını"
+   ],
+   [
+    12.3,
+    12.66,
+    " aşmayı"
+   ],
+   [
+    12.66,
+    13.94,
+    " başaramadı."
+   ]
+  ]
+ },
+ {
+  "start": 15.02,
+  "end": 19.98,
+  "text": " Garnizondaki stoklar bitti, havadan atılan yardım paketlerinin önemli bölümü hedefe ulaşmadı.",
+  "words": [
+   [
+    15.02,
+    15.58,
+    " Garnizondaki"
+   ],
+   [
+    15.58,
+    16.02,
+    " stoklar"
+   ],
+   [
+    16.02,
+    16.46,
+    " bitti,"
+   ],
+   [
+    16.72,
+    17.0,
+    " havadan"
+   ],
+   [
+    17.0,
+    17.38,
+    " atılan"
+   ],
+   [
+    17.38,
+    17.72,
+    " yardım"
+   ],
+   [
+    17.72,
+    18.36,
+    " paketlerinin"
+   ],
+   [
+    18.36,
+    18.7,
+    " önemli"
+   ],
+   [
+    18.7,
+    18.98,
+    " bölümü"
+   ],
+   [
+    18.98,
+    19.3,
+    " hedefe"
+   ],
+   [
+    19.3,
+    19.98,
+    " ulaşmadı."
+   ]
+  ]
+ },
+ {
+  "start": 21.56,
+  "end": 27.22,
+  "text": " General Tom Schendin kuvvetleri kayıtsız şartsız teslim oldu. 13 binin üzerinde asker esir alındı.",
+  "words": [
+   [
+    21.56,
+    21.78,
+    " General"
+   ],
+   [
+    21.78,
+    22.0,
+    " Tom"
+   ],
+   [
+    22.0,
+    22.34,
+    " Schendin"
+   ],
+   [
+    22.34,
+    22.9,
+    " kuvvetleri"
+   ],
+   [
+    22.9,
+    23.34,
+    " kayıtsız"
+   ],
+   [
+    23.34,
+    23.78,
+    " şartsız"
+   ],
+   [
+    23.78,
+    24.12,
+    " teslim"
+   ],
+   [
+    24.12,
+    24.58,
+    " oldu."
+   ],
+   [
+    24.84,
+    25.12,
+    " 13"
+   ],
+   [
+    25.12,
+    25.4,
+    " binin"
+   ],
+   [
+    25.4,
+    25.94,
+    " üzerinde"
+   ],
+   [
+    25.94,
+    26.3,
+    " asker"
+   ],
+   [
+    26.3,
+    26.52,
+    " esir"
+   ],
+   [
+    26.52,
+    27.22,
+    " alındı."
+   ]
+  ]
+ },
+ {
+  "start": 28.14,
+  "end": 31.38,
+  "text": " Bu başarı savaşın genel sonucunu değiştirmedi.",
+  "words": [
+   [
+    28.11,
+    28.56,
+    " Bu"
+   ],
+   [
+    28.56,
+    28.96,
+    " başarı"
+   ],
+   [
+    28.96,
+    29.46,
+    " savaşın"
+   ],
+   [
+    29.46,
+    29.82,
+    " genel"
+   ],
+   [
+    29.82,
+    30.18,
+    " sonucunu"
+   ],
+   [
+    30.18,
+    31.38,
+    " değiştirmedi."
+   ]
+  ]
+ },
+ {
+  "start": 32.18,
+  "end": 33.74,
+  "text": " Devamını istiyorsanız abone olun.",
+  "words": [
+   [
+    32.18,
+    32.48,
+    " Devamını"
+   ],
+   [
+    32.48,
+    33.22,
+    " istiyorsanız"
+   ],
+   [
+    33.22,
+    33.56,
+    " abone"
+   ],
+   [
+    33.56,
+    33.74,
+    " olun."
+   ]
+  ]
+ }
+]

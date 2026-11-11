@@ -1,0 +1,386 @@
+[
+ {
+  "start": 0.0,
+  "end": 3.42,
+  "text": " Bizans, Halic'in girişini kalın bir zincirle kapatmıştı.",
+  "words": [
+   [
+    0.0,
+    0.8,
+    " Bizans,"
+   ],
+   [
+    0.94,
+    1.08,
+    " Halic"
+   ],
+   [
+    1.08,
+    1.24,
+    "'in"
+   ],
+   [
+    1.24,
+    1.68,
+    " girişini"
+   ],
+   [
+    1.68,
+    2.0,
+    " kalın"
+   ],
+   [
+    2.0,
+    2.16,
+    " bir"
+   ],
+   [
+    2.16,
+    2.58,
+    " zincirle"
+   ],
+   [
+    2.58,
+    3.42,
+    " kapatmıştı."
+   ]
+  ]
+ },
+ {
+  "start": 4.38,
+  "end": 7.3,
+  "text": " Osmanlı donanması denizden içeri giremiyordu.",
+  "words": [
+   [
+    4.38,
+    4.74,
+    " Osmanlı"
+   ],
+   [
+    4.74,
+    5.26,
+    " donanması"
+   ],
+   [
+    5.26,
+    5.76,
+    " denizden"
+   ],
+   [
+    5.76,
+    6.04,
+    " içeri"
+   ],
+   [
+    6.04,
+    7.3,
+    " giremiyordu."
+   ]
+  ]
+ },
+ {
+  "start": 8.2,
+  "end": 14.44,
+  "text": " Osmanlı gemilerinin bir bölümü, Galata sırtlarında hazırlanan güzergahtan Kızaqla üzerinde karadan taşındı.",
+  "words": [
+   [
+    8.2,
+    8.54,
+    " Osmanlı"
+   ],
+   [
+    8.54,
+    9.12,
+    " gemilerinin"
+   ],
+   [
+    9.12,
+    9.32,
+    " bir"
+   ],
+   [
+    9.32,
+    9.72,
+    " bölümü,"
+   ],
+   [
+    9.96,
+    10.22,
+    " Galata"
+   ],
+   [
+    10.22,
+    10.7,
+    " sırtlarında"
+   ],
+   [
+    10.7,
+    11.24,
+    " hazırlanan"
+   ],
+   [
+    11.24,
+    12.0,
+    " güzergahtan"
+   ],
+   [
+    12.0,
+    12.4,
+    " Kızaqla"
+   ],
+   [
+    12.4,
+    12.84,
+    " üzerinde"
+   ],
+   [
+    12.84,
+    13.22,
+    " karadan"
+   ],
+   [
+    13.22,
+    14.44,
+    " taşındı."
+   ]
+  ]
+ },
+ {
+  "start": 15.38,
+  "end": 22.2,
+  "text": " Hangi yolun kullanıldığı ve kaç geminin geçirildiği kaynaklarda farklı anlatılır, fakat gemilerin Halic'e indirildiği kesindir.",
+  "words": [
+   [
+    15.38,
+    15.68,
+    " Hangi"
+   ],
+   [
+    15.68,
+    15.96,
+    " yolun"
+   ],
+   [
+    15.96,
+    16.54,
+    " kullanıldığı"
+   ],
+   [
+    16.54,
+    16.7,
+    " ve"
+   ],
+   [
+    16.7,
+    16.9,
+    " kaç"
+   ],
+   [
+    16.9,
+    17.26,
+    " geminin"
+   ],
+   [
+    17.26,
+    17.84,
+    " geçirildiği"
+   ],
+   [
+    17.84,
+    18.46,
+    " kaynaklarda"
+   ],
+   [
+    18.46,
+    18.82,
+    " farklı"
+   ],
+   [
+    18.82,
+    19.62,
+    " anlatılır,"
+   ],
+   [
+    19.76,
+    19.98,
+    " fakat"
+   ],
+   [
+    19.98,
+    20.46,
+    " gemilerin"
+   ],
+   [
+    20.46,
+    20.72,
+    " Halic"
+   ],
+   [
+    20.72,
+    20.84,
+    "'e"
+   ],
+   [
+    20.84,
+    21.32,
+    " indirildiği"
+   ],
+   [
+    21.32,
+    22.2,
+    " kesindir."
+   ]
+  ]
+ },
+ {
+  "start": 24.12,
+  "end": 29.16,
+  "text": " Bizans kuvvetleri artık yalnız Kara Surları'nı değil, Halic kıyılarını da savunmak zorunda kaldı.",
+  "words": [
+   [
+    24.12,
+    24.46,
+    " Bizans"
+   ],
+   [
+    24.46,
+    25.04,
+    " kuvvetleri"
+   ],
+   [
+    25.04,
+    25.38,
+    " artık"
+   ],
+   [
+    25.38,
+    25.72,
+    " yalnız"
+   ],
+   [
+    25.72,
+    25.94,
+    " Kara"
+   ],
+   [
+    25.94,
+    26.3,
+    " Surları"
+   ],
+   [
+    26.3,
+    26.88,
+    "'nı"
+   ],
+   [
+    26.88,
+    26.88,
+    " değil,"
+   ],
+   [
+    27.08,
+    27.3,
+    " Halic"
+   ],
+   [
+    27.3,
+    27.74,
+    " kıyılarını"
+   ],
+   [
+    27.74,
+    27.88,
+    " da"
+   ],
+   [
+    27.88,
+    28.3,
+    " savunmak"
+   ],
+   [
+    28.3,
+    28.7,
+    " zorunda"
+   ],
+   [
+    28.7,
+    29.16,
+    " kaldı."
+   ]
+  ]
+ },
+ {
+  "start": 30.0,
+  "end": 33.32,
+  "text": " Bu hikayenin devamını istiyorsanız abone olun.",
+  "words": [
+   [
+    30.0,
+    30.82,
+    " Bu"
+   ],
+   [
+    30.82,
+    31.42,
+    " hikayenin"
+   ],
+   [
+    31.42,
+    31.96,
+    " devamını"
+   ],
+   [
+    31.96,
+    32.72,
+    " istiyorsanız"
+   ],
+   [
+    32.72,
+    33.04,
+    " abone"
+   ],
+   [
+    33.04,
+    33.32,
+    " olun."
+   ]
+  ]
+ },
+ {
+  "start": 34.48,
+  "end": 37.46,
+  "text": " Türk tarihini doğrulanmış kaynaklarla birlikte inceleyelim.",
+  "words": [
+   [
+    34.48,
+    34.54,
+    " Türk"
+   ],
+   [
+    34.54,
+    35.1,
+    " tarihini"
+   ],
+   [
+    35.1,
+    35.74,
+    " doğrulanmış"
+   ],
+   [
+    35.74,
+    36.42,
+    " kaynaklarla"
+   ],
+   [
+    36.42,
+    36.82,
+    " birlikte"
+   ],
+   [
+    36.82,
+    37.46,
+    " inceleyelim."
+   ]
+  ]
+ }
+]

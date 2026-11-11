@@ -1,0 +1,364 @@
+[
+ {
+  "start": 0.0,
+  "end": 6.640000000000001,
+  "text": " Babaüller isyanı devleti yıpratmış, mollara Anadolu-Selçuklu gücünün göründüğü kadar sağlam olmadığını göstermişti.",
+  "words": [
+   [
+    0.0,
+    0.72,
+    " Babaüller"
+   ],
+   [
+    0.72,
+    1.22,
+    " isyanı"
+   ],
+   [
+    1.22,
+    1.56,
+    " devleti"
+   ],
+   [
+    1.56,
+    2.28,
+    " yıpratmış,"
+   ],
+   [
+    2.5,
+    2.76,
+    " mollara"
+   ],
+   [
+    2.76,
+    3.2,
+    " Anadolu"
+   ],
+   [
+    3.2,
+    3.68,
+    "-Selçuklu"
+   ],
+   [
+    3.68,
+    4.1,
+    " gücünün"
+   ],
+   [
+    4.1,
+    4.54,
+    " göründüğü"
+   ],
+   [
+    4.54,
+    4.8,
+    " kadar"
+   ],
+   [
+    4.8,
+    5.18,
+    " sağlam"
+   ],
+   [
+    5.18,
+    5.6,
+    " olmadığını"
+   ],
+   [
+    5.6,
+    6.640000000000001,
+    " göstermişti."
+   ]
+  ]
+ },
+ {
+  "start": 7.8,
+  "end": 14.04,
+  "text": " Tecrübeli komutanların bekleme önerisine rağmen öncü birlikler moll kuvvetlerine karşı erken saldırıya geçti.",
+  "words": [
+   [
+    7.8,
+    8.28,
+    " Tecrübeli"
+   ],
+   [
+    8.28,
+    8.84,
+    " komutanların"
+   ],
+   [
+    8.84,
+    9.24,
+    " bekleme"
+   ],
+   [
+    9.24,
+    9.82,
+    " önerisine"
+   ],
+   [
+    9.82,
+    10.22,
+    " rağmen"
+   ],
+   [
+    10.22,
+    10.52,
+    " öncü"
+   ],
+   [
+    10.52,
+    10.98,
+    " birlikler"
+   ],
+   [
+    10.98,
+    11.2,
+    " moll"
+   ],
+   [
+    11.2,
+    11.8,
+    " kuvvetlerine"
+   ],
+   [
+    11.8,
+    12.14,
+    " karşı"
+   ],
+   [
+    12.14,
+    12.56,
+    " erken"
+   ],
+   [
+    12.56,
+    13.08,
+    " saldırıya"
+   ],
+   [
+    13.08,
+    14.04,
+    " geçti."
+   ]
+  ]
+ },
+ {
+  "start": 14.96,
+  "end": 21.56,
+  "text": " Moll birlikleri geri çekiliyor gibi yaparak Selçuklu öncülerini düzenlerinden kopardı ve ardından karşı saldırıya geçti.",
+  "words": [
+   [
+    14.96,
+    15.12,
+    " Moll"
+   ],
+   [
+    15.12,
+    15.54,
+    " birlikleri"
+   ],
+   [
+    15.54,
+    15.8,
+    " geri"
+   ],
+   [
+    15.8,
+    16.24,
+    " çekiliyor"
+   ],
+   [
+    16.24,
+    16.5,
+    " gibi"
+   ],
+   [
+    16.5,
+    16.88,
+    " yaparak"
+   ],
+   [
+    16.88,
+    17.36,
+    " Selçuklu"
+   ],
+   [
+    17.36,
+    17.88,
+    " öncülerini"
+   ],
+   [
+    17.88,
+    18.6,
+    " düzenlerinden"
+   ],
+   [
+    18.6,
+    19.24,
+    " kopardı"
+   ],
+   [
+    19.24,
+    19.52,
+    " ve"
+   ],
+   [
+    19.52,
+    20.04,
+    " ardından"
+   ],
+   [
+    20.04,
+    20.34,
+    " karşı"
+   ],
+   [
+    20.34,
+    20.9,
+    " saldırıya"
+   ],
+   [
+    20.9,
+    21.56,
+    " geçti."
+   ]
+  ]
+ },
+ {
+  "start": 22.78,
+  "end": 28.4,
+  "text": " Merkez kuvvetleri paniğe kapılarak dağıldı, yenilgi Anadolu-Selçuklu devletini mol hakimiyetine açtı.",
+  "words": [
+   [
+    22.78,
+    23.1,
+    " Merkez"
+   ],
+   [
+    23.1,
+    23.6,
+    " kuvvetleri"
+   ],
+   [
+    23.6,
+    23.98,
+    " paniğe"
+   ],
+   [
+    23.98,
+    24.42,
+    " kapılarak"
+   ],
+   [
+    24.42,
+    25.04,
+    " dağıldı,"
+   ],
+   [
+    25.26,
+    25.56,
+    " yenilgi"
+   ],
+   [
+    25.56,
+    25.96,
+    " Anadolu"
+   ],
+   [
+    25.96,
+    26.44,
+    "-Selçuklu"
+   ],
+   [
+    26.44,
+    26.9,
+    " devletini"
+   ],
+   [
+    26.9,
+    27.1,
+    " mol"
+   ],
+   [
+    27.1,
+    27.74,
+    " hakimiyetine"
+   ],
+   [
+    27.74,
+    28.4,
+    " açtı."
+   ]
+  ]
+ },
+ {
+  "start": 29.160000000000004,
+  "end": 33.5,
+  "text": " Fesedan Anadolu'yu nasıl değiştirdiğini kaynaklarla anlatacağız.",
+  "words": [
+   [
+    29.160000000000004,
+    29.98,
+    " Fesedan"
+   ],
+   [
+    29.98,
+    30.4,
+    " Anadolu"
+   ],
+   [
+    30.4,
+    30.52,
+    "'yu"
+   ],
+   [
+    30.52,
+    30.8,
+    " nasıl"
+   ],
+   [
+    30.8,
+    31.52,
+    " değiştirdiğini"
+   ],
+   [
+    31.52,
+    32.26,
+    " kaynaklarla"
+   ],
+   [
+    32.26,
+    33.5,
+    " anlatacağız."
+   ]
+  ]
+ },
+ {
+  "start": 34.68,
+  "end": 35.8,
+  "text": " Devamı için abone olun.",
+  "words": [
+   [
+    34.68,
+    34.9,
+    " Devamı"
+   ],
+   [
+    34.9,
+    35.2,
+    " için"
+   ],
+   [
+    35.2,
+    35.6,
+    " abone"
+   ],
+   [
+    35.6,
+    35.8,
+    " olun."
+   ]
+  ]
+ }
+]
